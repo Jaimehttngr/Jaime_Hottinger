@@ -4,3 +4,16 @@ Jaime Hottinger's personal portfolio
 This folder showcases projects I have completed.
 ## Contents
 * [Hello World](hello_world)
+# About me
+
+## Skills
+
+### Certifications
+
+### Education
+
+## Past Projects
+
+### ADHD Presentation
+
+### PTSD Presentation
